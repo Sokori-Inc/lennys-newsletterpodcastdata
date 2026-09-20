@@ -1,7 +1,16 @@
 {
   "schema_version": "2.0",
-  "generated_at": "2026-09-09T16:01:02.097799+00:00",
+  "generated_at": "2026-09-20T16:04:07.877018+00:00",
   "podcasts": [
+    {
+      "title": "90 minutes of unfiltered product advice from Snap and Discord’s product chief | Peter Sellis",
+      "filename": "podcasts/peter-sellis.md",
+      "word_count": 17507,
+      "date": "2026-09-20",
+      "description": "90 minutes of unfiltered product advice from Snap and Discord’s product chief, covering team leadership, product design, and product strategy and execution.",
+      "guest": "Peter Sellis",
+      "post_url": "https://www.lennysnewsletter.com/p/90-minutes-of-unfiltered-product"
+    },
     {
       "title": "How we built Grok Bot in a month | Roman Ugarte (SpaceXAI)",
       "filename": "podcasts/roman-ugarte.md",
@@ -428,15 +437,6 @@
       "description": "Mental models for building products people love ft. Stewart Butterfield, covering product design, B2B products, and consumer products.",
       "guest": "Stewart Butterfield",
       "youtube_url": "https://www.youtube.com/watch?v=kLe-zy5r0Mk"
-    },
-    {
-      "title": "The Godmother of AI on jobs, robots & why world models are next | Dr. Fei-Fei Li",
-      "filename": "podcasts/dr-fei-fei-li.md",
-      "word_count": 11651,
-      "date": "2025-11-16",
-      "description": "Jobs, robots & why world models are next, covering AI product work, product design, and consumer products.",
-      "guest": "Dr. Fei Fei Li",
-      "youtube_url": "https://www.youtube.com/watch?v=Ctjiatnd6Xk"
     }
   ],
   "newsletters": [
